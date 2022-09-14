@@ -9,22 +9,25 @@ Last update:
 
 Todos los datos aquí reproducidos corresponden a bases de datos de acceso público, producidas por organismos públicos, organismos internacionales, artículos de investigación, textbooks, etc. Las fuentes de cada una de ellas aparece reproducido más abajo.
 
-<b>UK Districts data</b>
+UK Districts data
+------------------
 
 El set de datos contiene tres variables: el nombre del distrito (name), el porcentaje de votos en favor de abandonar la UE (leave), y el procentaje de residentes con educación terciaria, universitaria o equivalente (high_education).
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2022/master/'
 file <- 'UK_districts.csv'</pre></code>
 <b>Llaudet</b>, Elena, and Kosuke <b>Imai</b>. 2023. <i>Data Analysis for Social Science: A Friendly and Practical Introduction.</i> Princeton, NJ: Princeton University Press. Available at: <https://www.dropbox.com/sh/icpqf9bahqlf05h/AAA12Y1Q8DDtGkPSSOGTDcdMa>, accessed: 09-09-2022.
 
-<b>Titanic data</b>
+Titanic data
+------------------
 
 El set de datos contiene datos individuales de pasajeros del Titanic. El set de datos contiene información para 12 variables, entre ellas nombre (Name), sexo (Sex), y edad (Age) del pasajero, la categoría del pasaje (Pclass), su supervivencia al naugrafio (Survived), entre otros.
 <pre><code>url <- 'https://raw.githubusercontent.com/datasciencedojo/datasets/master/'
 file <- 'titanic.csv'</pre></code>
 
-Publicado por <i>Data Science Dojo</i>. Disponible en: https://github.com/datasciencedojo/datasets, accedido: 09-14-2022.
+Publicado por <i>Data Science Dojo</i>. Disponible en: <https://github.com/datasciencedojo/datasets>, accedido: 09-14-2022.
 
-<b>Motor Trend data</b>
+Motor Trend data
+------------------
 
 The data was extracted from the 1974 <i>Motor Trend US</i> magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
 <pre><code>url <- 'https://gist.github.com/seankross/a412dfbd88b3db70b74b'</pre></code>
@@ -43,4 +46,4 @@ am:	Transmission (0 = automatic, 1 = manual)</br >
 gear:	Number of forward gears</br >
 carb:	Number of carburetors</br >
 
-Publicado por Sean <b>Kross</b>. Disponible en: https://gist.github.com/seankross, accedido: 2022-09-14.
+Published by Sean <b>Kross</b>. Available at: <https://gist.github.com/seankross>, accessed: 09-14-2022.
