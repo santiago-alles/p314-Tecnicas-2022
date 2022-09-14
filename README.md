@@ -30,7 +30,7 @@ Motor Trend data
 ------------------
 
 The data was extracted from the 1974 <i>Motor Trend US</i> magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
-<pre><code>url <- 'https://gist.github.com/seankross/a412dfbd88b3db70b74b'</pre></code>
+<pre><code>datasets::mtcars</pre></code>
 
 A data frame with 32 observations on 11 (numeric) variables.
 
@@ -46,4 +46,4 @@ am:	Transmission (0 = automatic, 1 = manual)</br >
 gear:	Number of forward gears</br >
 carb:	Number of carburetors</br >
 
-Published by Sean <b>Kross</b>. Available at: <https://gist.github.com/seankross>, accessed: 09-14-2022.
+<b>Henderson</b>, Harold V., and Paul F. <b>Velleman</b>. 1981. Building multiple regression models interactively. <i>Biometrics</i>, 37 (2): 391–411. Also available at: <https://gist.github.com/seankross>, accessed: 09-14-2022.
