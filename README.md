@@ -67,13 +67,8 @@ Los otros dos sets de datos (educ_A74371, educ_B63963) contienen 120 observacion
 
 Lung Capacity Data
 ------------------
-(School)
-(Age)
-(Height)
-(Smoke)
-(Gender)
-(Caesarean)
-(LungCap)
+
+El set de datos contiene información de 725 niños, en los cuales se indica su nivel escolar (School), edad (Age), estatura (Height), si fuman (Smoke), su género (Gender), si nació por cesárea (Caesarean), y su capacidad pulmonar (LungCap).
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2022/master/'
 file <- 'LungCapData.csv'</pre></code>
