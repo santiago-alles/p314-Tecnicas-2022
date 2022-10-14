@@ -3,7 +3,7 @@ P314 - Técnicas de Análisis Político e Internacional (2022-II)
 
 Last update:
 ------------------
-10-07-2022
+10-14-2022
 
 </br >El presente repositorio contiene diferentes bases de datos utilizadas para realizar ejercicios (en clase y fuera de clase) en el curso <b>Técnicas de Análisis Político e Internacional</b>, del Departamento de Ciencias Sociales (Universidad de San Andrés), correspondiente al segundo semestre de 2022.
 
@@ -64,3 +64,16 @@ file <- 'educ_B63963.dta'</pre></code>
 Los dos primeros sets de datos (econ_A62731, econ_B79696) contienen 112 observaciones cada uno, y simulan ser datos macroeconómicos y resultados electorales de países latinoamericanos. Contienen 6 variables: growth, inflation, unemploy, incumbent, ideology, y vote_pct.
 
 Los otros dos sets de datos (educ_A74371, educ_B63963) contienen 120 observaciones cada uno, y simulan ser resultados de examenes escolares de niñxs de diferentes lugares. Contienen 5 variables: female, educ, expend, priv_school, y score.
+
+Lung Capacity Data
+------------------
+(School)
+(Age)
+(Height)
+(Smoke)
+(Gender)
+(Caesarean)
+(LungCap)
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2022/master/'
+file <- 'LungCapData.csv'</pre></code>
