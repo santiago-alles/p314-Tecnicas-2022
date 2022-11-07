@@ -72,3 +72,5 @@ El set de datos contiene información de 725 niños, en los cuales se indica su 
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2022/master/'
 file <- 'LungCapData.csv'</pre></code>
+
+Disponible en: <https://statslectures.com/r-scripts-datasets>, accedido: 10-14-2022.
