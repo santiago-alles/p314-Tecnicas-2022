@@ -74,3 +74,20 @@ El set de datos contiene información de 725 niños, en los cuales se indica su 
 file <- 'LungCapData.csv'</pre></code>
 
 Disponible en: <https://statslectures.com/r-scripts-datasets>, accedido: 10-14-2022.
+
+Replication Data
+------------------
+
+Sets de datos de tres articulos, para replicacion como ejercicios de clase.
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2022/master/'
+
+file <- 'Clayton_and_Zetterberg2021.csv'
+file <- 'Allen_and_MtzMachain2019.dta'
+file <- 'Lupu2010.dta'</pre></code>
+
+<b>Clayton</b>, Amanda, and Pär <b>Zetterberg</b>. 2021. Gender and Party Discipline: Evidence from Africa's Emerging Party Systems. <i>The American Political Science Review</i>, 115 (3): 869-884.
+
+<b>Allen</b>, Susan Hannah, and Carla <b>Martinez Machain</b>. 2019. Understanding the Impact of Air Power. <i>Conflict Management and Peace Science</i>, 36 (5): 545–558.
+
+<b>Lupu</b>, Noam. 2010. Who Votes for Chavismo? Class Voting in Hugo Chávez’s Venezuela. <i>Latin American Research Review</i>, 45 (1): 7-32. 
